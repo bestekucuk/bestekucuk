@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Beste</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
-<img align="right" width=400 src="https://img.freepik.com/premium-vector/work-late-concept-woman-night-office-with-pile-paper-laptop-cartoon-art-illustration-premium-vector_56104-173.jpg?w=996" alt="bestekucuk"> 
-<p align="right"> <img src="https://img.freepik.com/premium-vector/work-late-concept-woman-night-office-with-pile-paper-laptop-cartoon-art-illustration-premium-vector_56104-173.jpg?w=996" alt="bestekucuk"  /> </p>
- 
+<img align="right" width=400 src="https://img.freepik.com/premium-vector/work-late-concept-woman-night-office-with-pile-paper-laptop-cartoon-art-illustration-premium-vector_56104-173.jpg?w=996" alt="bestekucuk">  
 - 🌱 I’m currently learning **Flask**
 
 - 📝 I regularly write articles on [https://bestekucuk.medium.com/](bestekucuk)

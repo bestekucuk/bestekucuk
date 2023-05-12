@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flask**
 
-- 📝 I regularly write articles on [https://bestekucuk.medium.com/](https://bestekucuk.medium.com/)
+- 📝 I regularly write articles on [https://bestekucuk.medium.com/](bestekucuk)
 
 - 💬 Ask me about **django,restframework**
 

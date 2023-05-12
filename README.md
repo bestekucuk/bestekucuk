@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Beste</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bestekucuk&label=Profile%20views&color=0e75b6&style=flat" alt="bestekucuk" /> </p>
+<p align="left"> <img src="C:\Users\beste\Downloads\Download Young woman stretches after long work on laptop cartoon illustration for free.jpg" alt="bestekucuk" /> </p>
 
 - 🌱 I’m currently learning **Flask**
 

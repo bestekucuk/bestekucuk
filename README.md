@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Beste</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 
-<p align="left"> <img src="https://i.pinimg.com/564x/48/6d/2e/486d2e3b420cc8dd8fd72d6f9b2ddcb3.jpg" alt="bestekucuk" /> </p>
+<p align="left"> <img src="https://i.pinimg.com/564x/48/6d/2e/486d2e3b420cc8dd8fd72d6f9b2ddcb3.jpg" alt="bestekucuk"  /> </p>
 
 - 🌱 I’m currently learning **Flask**
 

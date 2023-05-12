@@ -1,5 +1,5 @@
 
-https://www.canva.com/design/DAFisWxS3vc/view
+<a href="https://www.flaticon.com/free-icons/cute" title="cute icons">Cute icons created by Freepik - Flaticon</a>
 <h1 align="center">Hi 👋, I'm Beste</h1>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFisWxS3vc&#x2F;view?utm_content=DAFisWxS3vc&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Tasarım</a> - Akita Marato
 <h3 align="center">A passionate software developer from Turkey</h3>

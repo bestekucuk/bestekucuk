@@ -3,7 +3,7 @@
 <img align="right" width=400 src="https://img.freepik.com/premium-vector/work-late-concept-woman-night-office-with-pile-paper-laptop-cartoon-art-illustration-premium-vector_56104-173.jpg?w=996" alt="bestekucuk">  
 - 🌱 I’m currently learning flask
 
-- 📝 I regularly write articles on [https://bestekucuk.medium.com/](bestekucuk)
+- 📝 I regularly write articles on [https://bestekucuk.medium.com/](https://bestekucuk.medium.com/)
 
 - 💬 Ask me about **django,restframework**
 

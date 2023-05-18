@@ -14,8 +14,10 @@
 - ⚡ Fun fact **I think I am a dreamer**
 
 ### 📕  Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
+<!-- MEDIUM-STORY-LIST:START -->
+<!-- MEDIUM-STORY-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

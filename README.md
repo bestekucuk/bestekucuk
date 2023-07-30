@@ -3,7 +3,7 @@
 <h3 align="center">A passionate software developer from Turkey</h3>
 
 
-- 🌱 I’m currently learning flask
+- 🌱 I’m currently learning c#
 
 - 📝 I regularly write articles on [bestekucuk](https://bestekucuk.medium.com/)
 

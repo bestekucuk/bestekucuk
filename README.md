@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://tr.linkedin.com/in/bestekucuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bestekucuk/" height="30" width="40" /></a>
 <a href="https://bestekucuk.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bestekucuk" height="30" width="40" /></a>
-<a href="https://bestekucuk.me/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="bestekucuk.me" height="30" width="40" /></a>
+<a href="https://bestekucuk.me/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="[bestekucuk.me](https://huggingface.co/spaces/bestekucuk/text_classfication)" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
